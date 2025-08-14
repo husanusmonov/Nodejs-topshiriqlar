@@ -1,0 +1,1 @@
+Bu yerda oddiy nodejsda express ishlatgan holda RestFull API qo'llanilgan. Dasturiy tillarni kategoriyasi yaratish, o'zgartirish, ro'yhat qilib chiqarish va o'chirish CRUD amallariga asoslangan. Bu shunchaki boshlang'ich nodejs o'rganish uchun.
